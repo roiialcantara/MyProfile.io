@@ -5,12 +5,14 @@ body{
 section{
     padding: 60px 0;
 }
+/* Home */
 #home{
     background-image: url("assets/moon.jpg");
     background-size: cover;
     padding-top: 140px;
     padding-bottom: 290px;
 }
+/* About */
 #about{
     background-color: #283739;
     color: white;
@@ -22,4 +24,13 @@ section{
 .img-fluid{
     background-color: wheat;
     border-radius: 100px;
+}
+
+/* Skills */
+#skills{
+    background-color: #222831;
+}
+#skills-header{
+    margin-top: -20px;
+    margin-bottom: 50px;
 }
