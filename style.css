@@ -1,17 +1,25 @@
 body{
     background-color: #283739;
-    color: white;
+    color: #ffffff;
 }
 section{
     padding: 60px 0;
 }
-.img-fluid{
-    background-color: wheat;
-    border-radius: 100px;
+#home{
+    background-image: url("assets/moon.jpg");
+    background-size: cover;
+    padding-top: 140px;
+    padding-bottom: 290px;
 }
 #about{
     background-color: #393e46;
+    color: white;
 }
 #about-header{
-    margin-top: -25px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+.img-fluid{
+    background-color: wheat;
+    border-radius: 100px;
 }
