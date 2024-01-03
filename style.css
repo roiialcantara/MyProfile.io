@@ -38,3 +38,7 @@ section{
     background-color: #474e58;
     border-radius: 30px;
 }
+.card-title{
+    margin-top: 10px;
+    color: white;
+}
