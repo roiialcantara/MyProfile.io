@@ -9,3 +9,9 @@ section{
     background-color: wheat;
     border-radius: 100px;
 }
+#about{
+    background-color: #393e46;
+}
+#about-header{
+    margin-top: -25px;
+}
