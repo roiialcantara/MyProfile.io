@@ -5,6 +5,13 @@ body{
 section{
     padding: 60px 0;
 }
+/* Navbar */
+.nav-link:hover{
+    color: orange;
+}
+.nav-link:active{
+    color: white;
+}
 /* Home */
 #home{
     background-image: url("assets/moon.jpg");
