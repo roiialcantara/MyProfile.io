@@ -57,6 +57,7 @@ section:nth-child(odd) {
 /* Education */
 #education{
     background-color: #1a2639;
+    padding-bottom: 180px;
 }
 #card-holder{
     background-color: #41506b;
