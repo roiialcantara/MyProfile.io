@@ -12,6 +12,10 @@ section{
 .nav-link:active{
     color: white;
 }
+section:nth-child(odd) {
+    background: #323946;
+}
+
 /* Home */
 #home{
     background-image: url("assets/moon.jpg");
